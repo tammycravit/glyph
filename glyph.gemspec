@@ -139,6 +139,7 @@ Gem::Specification.new do |s|
     "macros/reps/web5.rb",
     "macros/structure.rb",
     "macros/xml.rb",
+    "spec/.glyphrc",
     "spec/files/article.glyph",
     "spec/files/container.textile",
     "spec/files/custom_command.rb",
